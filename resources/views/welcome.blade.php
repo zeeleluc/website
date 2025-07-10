@@ -139,8 +139,8 @@
     <h2>Freelance PHP Laravel Developer</h2>
 
     <p>
-        I'm a passionate PHP/Laravel developer focused on building clean and efficient web applications.
-        I love turning ideas into code and helping businesses bring their projects to life.
+        Ik ben een enthousiaste PHP/Laravel-developer die graag werkt aan duidelijke en efficiënte webapplicaties.
+        Ik vind het leuk om ideeën om te zetten in code en bedrijven te helpen hun plannen waar te maken.
     </p>
 
     <div class="links">
